@@ -5,6 +5,7 @@
  - 30 red wines (£12.99 / each)
  - 20 white wine (£10.49 / each) 
  - 12 rose wines (£7.99 / each)
+ - 30 rums (£39.99 / each)
 
  Types of customers:
  - Regular customer
